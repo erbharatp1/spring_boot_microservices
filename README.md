@@ -3,10 +3,15 @@ spring_boot_microservices
 
 # Tech Stack and Runtime
 Java 1.8
+
 Eclipse IDE
+
 Spring cloud
+
 Spring boot
+
 Spring Rest
+
 Maven
 
 
