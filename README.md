@@ -18,3 +18,4 @@ Which will give some functionality based on Student entity. It will be a rest ba
 
 School Microservice – 
 Same type as of Student service – only added feature is that it will invoke Student service with service look up mechanism. We will not use absolute URL of student service to interact with that service.
+rr
